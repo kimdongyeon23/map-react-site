@@ -1,15 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# nyc-map
-# map-react-site
-# map-react-site
+React 훅과 Context API를 활용해 상태 관리를 최적화하고 API에서 뉴욕 핫스팟 데이터를 받아 탭 UI로 화면을 전환하며 좋아요 및 검색 기능을 구현한 지도 기반 웹 애플리케이션을 컴포넌트 재사용성에 중점을 두고 설계·구현하였습니다.
